@@ -1,5 +1,10 @@
 # 🔐 PassGen CLI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
+[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](package.json)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 A simple and lightweight CLI tool to generate secure random passwords right from your terminal.
 
 ## Features
@@ -105,3 +110,7 @@ passgen -r
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) guide first before submitting a Pull Request.
