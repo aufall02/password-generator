@@ -13,7 +13,13 @@ A simple and lightweight CLI tool to generate secure random passwords right from
 
 ## Installation
 
-Clone the repository and install dependencies:
+### Option 1 — Install globally via npm (recommended)
+
+```bash
+npm install -g https://github.com/aufall02/password-generator
+```
+
+### Option 2 — Clone & link manually
 
 ```bash
 git clone https://github.com/aufall02/password-generator.git
@@ -21,6 +27,8 @@ cd password-generator
 npm install
 npm link
 ```
+
+After either option, the `passgen` command will be available globally from anywhere in your terminal.
 
 ## Usage
 
